@@ -1,2 +1,3 @@
 # Udacity-Data-Analyst-
-Project completed from Udacity NanoDegree Data Analyst program
+
+Initial submission of projects
