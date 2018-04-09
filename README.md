@@ -1,3 +1,8 @@
-# Udacity-Data-Analyst-
+# Udacity-Data-Analyst-Nanodegree
 
-Initial submission of projects
+Project completed from Udacity NanoDegree Data Analyst program
+
+Project -
+
+1. Investigate a data set - [TMDB Movie Database]
+2. Create a Tableau Story - [Prosper Loan]
