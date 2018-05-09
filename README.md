@@ -6,7 +6,7 @@ Project -
 2) [Create a Tableau Story - Prosper Loan](https://github.com/pallavi15/Udacity-Data-Analyst-/blob/Initial-submissions/Project%20-%20Create%20A%20Tableau%20Story%20.ipynb)
 3) Explore and Summarize Data with R - Wine Quality
 
-   [R-Script](https://github.com/pallavi15/Udacity-Data-Analyst-/blob/Initial-submissions/Wine_Quality.Rmd)
+   [R-Script](https://github.com/pallavi15/Udacity-Data-Analyst-/blob/Initial-submissions/Wine_Quality_Final.Rmd)
+   
+   
                                        
-   [Knited File](https://github.com/pallavi15/Udacity-Data-Analyst-/blob/Initial-submissions/Wine_Quality.html)
-
